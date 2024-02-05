@@ -1,18 +1,12 @@
-# Dark Moodle
+# Night Moodle
 
 ## Installation
 
-Chrome : [Link here](https://chrome.google.com/webstore/detail/dark-moodle/hblgmffbmddipnmjboehgpbpmmmkhdom "Chrome Web Store")
-
-Firefox : [Link here](https://addons.mozilla.org/fr/firefox/addon/moz-dark-moodle/ "Addons Mozilla")
-
-Opera : Currently in moderation
-
-If you want to build it by your own, you can follow this [tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked)
+If you want to build it by your own, you can follow this [tutorial](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
 ## Description
 
-Dark Moodle is a web extension that modify the default Moodle style sheet with a darker look, it also add some changes on the UI. This extension was made because every dark mode extension that I tested give a bad render with this website.
+Night Moodle is a web extension that modify the default Moodle style sheet with a night look, it also add some changes on the UI. This extension was made because every night mode extension that I tested give a bad render with this website.
 
 ## Screenshots
 
@@ -24,6 +18,6 @@ Other Dark Mode Extension ([Dark Reader](https://chrome.google.com/webstore/deta
 
 ![Dark Reader Screenshot](screenshots/Dark_Reader.png)
 
-Dark Moodle :
+Night Moodle :
 
 ![Dark Moodle Screenshot](screenshots/Dark_Moodle.png)
