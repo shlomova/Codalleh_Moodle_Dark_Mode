@@ -10,6 +10,26 @@ select,select option,body,.mdc-text-field,input,.card-deck,.profile_tree,.messag
 .editor_atto_content::placeholder{
     content: "Ecrire ici...";
 }
+
+.pagelayout-standard #page.drawers .main-inner, body.limitedwidth #page.drawers .main-inner {
+    background-color: #343a40;
+}
+#page.drawers div[role="main"] {
+    background-color: #343a40;
+}
+.moremenu.navigation.observed
+{
+    background-color: #343a40;
+}
+.moremenu .nav-tabs {
+    background-color: #343a40;
+}
+.drawercontent {
+    background-color: #555;
+}
+.drawerheader {
+    background-color: #8f959e;
+}
 .course-summaryitem{
     border-color: #333 !important;
     border-width: 2px !important;
